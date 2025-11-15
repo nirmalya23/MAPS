@@ -1,0 +1,2 @@
+# MAPS
+ALL_MAPS
